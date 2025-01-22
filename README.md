@@ -8,7 +8,9 @@ Welcome to my GitHub universe! Here, you'll find a collection of projects fueled
 
 - 🌱 **Learning:** Continuously expanding my skills in **Flutter, Dart, and Python** to build a solid foundation for my future projects.
 - 💬 **Ask Me About:** Anything related to **learning resources, getting started in development, and Flutter/Dart/Python basics**—I'm always up for a deep discussion or brainstorming session.
-- 📫 **Reach Me At:** m.usamaghafoor65@gmail.com
+- **Contact Me**
+- 📱 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+923490161601)
+- 📨 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.usamaghafoor65@gmail.com)
 
 ## 🛠 Tech Stack
 
