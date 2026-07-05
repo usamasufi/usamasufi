@@ -1,41 +1,97 @@
 # 🌟 Usama Sufi
 
-**Aspiring Developer | Enthusiastic Learner | Explorer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Writer" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub universe! Here, you'll find a collection of projects fueled by curiosity and a relentless drive to learn. Dive in, explore, and let's connect over code and creativity.
+<p align="center">
+  <b>Aspiring Developer • Enthusiastic Learner • Explorer</b>
+</p>
+
+---
+
+Welcome to my GitHub universe! 🚀
+
+Here, you'll find a collection of projects fueled by curiosity and a relentless drive to learn. Dive in, explore, and let's connect over code and creativity.
 
 ## 🚀 About Me
 
-- 🌱 **Learning:** Continuously expanding my skills in **Flutter, Dart, and Python** to build a solid foundation for my future projects.
-- 💬 **Ask Me About:** Anything related to **learning resources, getting started in development, and Flutter/Dart/Python basics**—I'm always up for a deep discussion or brainstorming session.
-- **Contact Me**
-- 📱 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+923490161601)
-- 📨 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.usamaghafoor65@gmail.com)
+- 🌱 Currently learning **Flutter, Dart, and Python**.
+- 💡 Passionate about building beautiful mobile apps and continuously improving my skills.
+- 💬 Ask me about **Flutter, Dart, Python, Git, and learning resources.**
+- 🎯 Goal: Become a professional Flutter Developer and contribute to open source.
 
 ## 🛠 Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-UsamaSufi-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musamasufi/)
-[![Instagram](https://img.shields.io/badge/Instagram-@UsamaSufi-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m.usamasufi/)
-[![Facebook](https://img.shields.io/badge/Facebook-UsamaSufi-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/m.usamasufi)
+---
 
 ## 📊 GitHub Stats
 
-![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamasufi&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usamasufi&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamasufi&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamasufi&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-Feel free to explore the repositories and don't hesitate to reach out—collaboration and shared learning are at the heart of open source.
+## 🏆 GitHub Trophies
 
-By the way, incorporating dynamic elements like GitHub trophies or integrating actions that update your README can make it even more engaging. Have you thought about showcasing your journey with a timeline or highlighting contributions to open-source projects you love?
-
-Also, since storytelling is powerful, consider sharing the "why" behind your projects. What inspired them? What challenges did you overcome? It adds depth and invites others into your world.
-
-If you ever want to brainstorm more ideas or delve into new technologies, I'm here to chat. The tech landscape is ever-evolving, and there's always something thrilling on the horizon.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usamasufi&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/musamasufi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Usama%20Sufi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/m.usamasufi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@UsamaSufi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/m.usamasufi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Usama%20Sufi-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/923490161601" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="mailto:m.usamaghafoor65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=usamasufi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+## ✨ Quote
+
+> *"The best way to predict the future is to create it."* 🚀
+
+---
+
+### Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories and let's build something amazing together!
